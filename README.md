@@ -14,11 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-![image](https://github.com/Gunjan021/Wallpaper-React-Web/assets/76468176/89e78d62-e215-4cfb-aadf-a8b51bbf9c2e)
+![image](https://github.com/Gunjan021/Wallpaper-React-Web/assets/76468176/f1275f0d-a7ed-46d9-b3ff-dda41bb37e46)
 
-![image](https://github.com/Gunjan021/Wallpaper-React-Web/assets/76468176/fab2f721-66e7-450b-8ea9-bcbcf7be22f5)
+![image](https://github.com/Gunjan021/Wallpaper-React-Web/assets/76468176/175056e0-e2cb-49ca-9b3e-538f8a5a149d)
 
-![image](https://github.com/Gunjan021/Wallpaper-React-Web/assets/76468176/b7e66baf-abd9-4718-8358-f032cf12823c)
+![image](https://github.com/Gunjan021/Wallpaper-React-Web/assets/76468176/69848466-711f-4f0c-adee-dc0a6a887b54)
 
 
 ### `npm test`
