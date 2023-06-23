@@ -14,6 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+![image](https://github.com/Gunjan021/Wallpaper-React-Web/assets/76468176/89e78d62-e215-4cfb-aadf-a8b51bbf9c2e)
+
+![image](https://github.com/Gunjan021/Wallpaper-React-Web/assets/76468176/fab2f721-66e7-450b-8ea9-bcbcf7be22f5)
+
+![image](https://github.com/Gunjan021/Wallpaper-React-Web/assets/76468176/b7e66baf-abd9-4718-8358-f032cf12823c)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
